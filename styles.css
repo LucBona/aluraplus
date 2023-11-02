@@ -47,6 +47,10 @@ body {
     text-decoration: none;
     margin-bottom: 1em;}
 
+.container__botao:hover{
+    background-color: aqua;
+}
+
 .botao_secundario{
     background-color: transparent;
     border: 2px solid var(--branco-principal);
@@ -147,3 +151,4 @@ body {
 .lista__texto a:active{
     color: green;
 }
+
